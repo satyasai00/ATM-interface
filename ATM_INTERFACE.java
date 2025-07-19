@@ -86,12 +86,7 @@ public class ATM_INTERFACE{
         }
         else {
                 System.out.println("Enter the correct pin and retry");
-               
-                
-
 
         }
-
-        
     }
 }
